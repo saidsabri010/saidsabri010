@@ -3,6 +3,8 @@
 
 https://user-images.githubusercontent.com/50018968/158662907-effd2835-1cbd-4eca-9528-26c9156817aa.mp4
 
+Software developer with industry experience building websites and web applications. I specialize in Python and have professional experience working with C#, Java, PHP, JavaScript. I also have experience working with Laravel, Spring Boot, Django, Flask, ASP. Net, Rest API, Database. Furthermore, I have experience dealing with data such as making ML models, Analyzing, processing, cleaning Data using Pandas, NumPy, Matplotlib, TensorFlow, Keras.
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
