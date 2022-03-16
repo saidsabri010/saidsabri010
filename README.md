@@ -7,7 +7,10 @@ Software developer with industry experience building websites and web applicatio
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidsabri010&theme=Github stats" />
 
-![](https://img.shields.io/badge/Technologies-Tools-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidsabri010&show_icons=true&theme=radical)
+
+
 
 
 
