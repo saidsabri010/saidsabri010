@@ -7,6 +7,9 @@ Software developer with industry experience building websites and web applicatio
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidsabri010&theme=Github stats" />
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidsabri010&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 Here are some ideas to get you started:
 
